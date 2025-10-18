@@ -1,0 +1,7 @@
+.about-me-wrapper {
+    display: flex;
+    width: calc(100% - 340px);
+    height: 100%;
+    flex-direction: column;
+    gap: 40px;
+}

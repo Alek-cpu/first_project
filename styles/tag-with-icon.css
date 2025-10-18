@@ -1,0 +1,17 @@
+@import url(./variables.css);
+
+.tag-with-icon {
+    width: fit-content;
+    padding: 1rem;
+    border-radius: 12px;
+    color: var(--button-text-color);
+    background-color: var(--button-bg-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    box-shadow: initial;
+    border: none;
+    cursor: pointer;
+    white-space: nowrap;
+}

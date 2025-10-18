@@ -1,0 +1,8 @@
+.tag-list-name {
+    padding-right: 10px;
+    border-right: 1px solid white;
+    font-weight: 600;
+    height: -webkit-fill-available;
+    display: flex;
+    align-items: center;
+}
