@@ -6,3 +6,7 @@
     border-radius: 1rem;
     background-color: var(--card-wrapper-bg-color);
 }
+
+.text-wrapper {
+    grid-row: 1/5;
+}

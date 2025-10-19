@@ -8,6 +8,9 @@
 @import url(./tag-wrapper.css);
 @import url(./tag-list.css);
 @import url(./tag-list-name.css);
+@import url(./work-experience.css);
+@import url(./educations.css);
+@import url(./more-information.css);
 
 * {
     margin: 0;

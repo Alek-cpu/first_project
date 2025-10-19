@@ -1,7 +1,29 @@
+@import url(./variables.css);
+
 .work-experience {
     width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
+}
+
+.work-experience-header {
+    display: flex;
+    width: 100%;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    border-bottom: 1px solid white;
+}
+
+.work-experience-header > .work-experience-title > .card-subtitle {
+    color: var(--subtitle-text-color);
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.work-experience > ul {
+    margin-top: 20px;
+    padding-left: 20px;
 }

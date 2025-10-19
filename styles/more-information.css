@@ -1,0 +1,7 @@
+.more-information {
+    width: 100%;
+    display: grid;
+    grid-template-columns: calc(50% - 20px) calc(50% - 20px);
+    grid-template-rows: auto auto auto auto auto auto;
+    gap: 40px;
+}

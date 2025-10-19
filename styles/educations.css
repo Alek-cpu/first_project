@@ -1,0 +1,17 @@
+.educations > .work-experience-header {
+    margin-top: 20px;
+}
+
+.educations > .work-experience-header:first-child {
+    margin-top: 0;
+}
+
+.educations > .work-experience-header:last-child {
+    border-bottom: inherit;
+    padding-bottom: inherit;
+}
+
+.educations-wrapper {
+    grid-column: 2;
+    grid-row: 2 / 5;
+}

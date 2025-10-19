@@ -5,3 +5,24 @@
     justify-content: flex-start;
     gap: 10px;
 }
+
+.tag-list-wrapper-0 {
+    grid-row: 5;
+}
+
+.tag-list-wrapper-1 {
+    grid-row: 2;
+}
+
+.tag-list-wrapper-2 {
+    grid-row: 3;
+}
+
+.tag-list-wrapper-3 {
+    grid-row: 4;
+}
+
+.tag-list-wrapper-4,
+.tag-list-wrapper-5 {
+    grid-column: 1/-1;
+}
